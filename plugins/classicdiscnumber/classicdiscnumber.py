@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 PLUGIN_NAME = 'Classic Disc Numbers'
 PLUGIN_AUTHOR = 'Lukas Lalinsky'
 PLUGIN_DESCRIPTION = '''Moves disc numbers and subtitles from the separate tags to album titles.'''
